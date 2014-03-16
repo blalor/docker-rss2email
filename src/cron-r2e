@@ -1,1 +1,1 @@
-0 *  *  *  *  * rss2email /usr/local/bin/r2e.sh run >> /var/log/rss2email.log
+0 *  *  *  * rss2email /usr/local/bin/r2e.sh run >> /var/log/rss2email.log 2>&1
