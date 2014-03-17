@@ -8,7 +8,7 @@ mv r2e.sh /usr/local/bin/
 mv logrotate-r2e.conf /etc/logrotate.d/r2e
 
 mv cron-r2e /etc/cron.d/r2e
-chown root:root/etc/cron.d/r2e
+chown root:root /etc/cron.d/r2e
 
 mv prepare-directories.sh /usr/local/bin/
 mv program-prepare-directories.conf /etc/supervisor.d/
